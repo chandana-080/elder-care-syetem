@@ -1,0 +1,15 @@
+.bomb-image{
+    width:15vw;
+}
+.main-container{
+    padding-top:80px;
+}
+
+
+ .counter-style{
+    font-size:4rem;
+ } 
+ 
+ .message-style{
+    text-shadow: 1px 2px 2px black;
+}

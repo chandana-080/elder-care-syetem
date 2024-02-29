@@ -1,0 +1,16 @@
+.stop-light,
+.ready-light,
+.go-light {
+    width: 50px;
+    height: 50px;
+    background-color: #4b5069;
+    border-radius: 100%;
+}
+.traffic-light {
+    background: black;
+    height: 250px;
+    width: 100px;
+    border-radius: 25px;
+
+
+}

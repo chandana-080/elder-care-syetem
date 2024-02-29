@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Kaushan+Script&family=Roboto&family=Rubik+Puddles&display=swap');
+
+.coursel-dish-image{
+    border-top-left-radius:200px;
+    border-bottom-right-radius:200px;
+    
+}
+.carousel-background-style{
+    background-image: url('https://img.freepik.com/free-photo/top-view-food-frame-with-copy-space_23-2148723447.jpg?w=1060&t=st=1696481539~exp=1696482139~hmac=4545d20820e04efc1619bd32166902c61068bd8ecffd0bc17edbc58de7f8629d');
+    background-size: cover;
+    width:100%;
+}
+.home-para-style{
+    color:bisque;
+
+}
+
+.main-heading-home{
+    font-family: 'Kaushan Script', cursive;
+    text-shadow: 1px 2px 2px black;
+}

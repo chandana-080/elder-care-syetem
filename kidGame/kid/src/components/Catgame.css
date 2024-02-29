@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Kaushan+Script&family=Roboto&family=Rubik+Puddles&family=Sofia+Sans+Condensed:wght@500&display=swap');
+
+
+.bulb-image{
+    height:20vh;
+
+}
+.cat-image{
+    width:15vw;
+   
+}
+.main-container{
+    height:100vh;
+}
+.switch-board{
+    width:30vw;
+    border-radius:12px;
+}
+.switch-on {
+    margin-right: 16px;
+  }
+
+.mes-style{
+    font-family: 'Sofia Sans Condensed', sans-serif;
+}
+  
+
+  
+
+
+
